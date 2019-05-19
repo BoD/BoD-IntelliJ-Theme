@@ -1,0 +1,22 @@
+<idea-plugin>
+  <id>com.your.company.unique.plugin.id</id>
+  <name>BoD Theme</name>
+  <version>1.0.0</version>
+  <vendor email="BoD@JRAF.org" url="http://JRAF.org">BoD</vendor>
+
+  <description><![CDATA[Make the tree inactive selected color more visible.]]></description>
+  <change-notes><![CDATA[
+  v1.0.0:<br>
+  Initial release.
+  ]]></change-notes>
+
+  <idea-version since-build="173.0"/>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="55100559-6ad4-4be3-8f41-ef806bc5797f" path="/META-INF/BoD.theme.json" />
+  </extensions>
+
+  <actions>
+  </actions>
+
+</idea-plugin>

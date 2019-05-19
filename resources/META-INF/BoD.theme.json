@@ -1,0 +1,9 @@
+{
+  "name": "BoD",
+  "dark": true,
+  "author": "BoD <BoD@JRAF.org>",
+  "editorScheme": "/META-INF/BoD.xml",
+  "ui": {
+    "Tree.selectionInactiveBackground": "#2463D1"
+  }
+}
